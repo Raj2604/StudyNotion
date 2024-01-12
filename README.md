@@ -1,7 +1,7 @@
 # StudyNotion - Empowering Education with Technology
 🚀 [Visit StudyNotion Website][https://study-notion-edtech.netlify.app/]
 
-![StudyNotion Main Page](images/Mainpage.jpg)
+![StudyNotion Main Page](images/Mainpage.jpg.jpeg)
 
 StudyNotion stands as a robust EdTech platform, seamlessly bridging the gap between creators and consumers of educational content. Developed on the MERN stack—leveraging ReactJS, NodeJS, MongoDB, and ExpressJS—it offers a dynamic and interactive learning experience.
 
