@@ -1,5 +1,5 @@
 # StudyNotion - Empowering Education with Technology
-🚀 [Visit StudyNotion Website]((https://study-notion-edtech.netlify.app/))
+🚀 [Visit StudyNotion Website][https://study-notion-edtech.netlify.app/]
 
 ![StudyNotion Main Page](images/mainpage.png)
 
