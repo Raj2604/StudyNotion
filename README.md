@@ -106,7 +106,7 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/repo.git`
+1. Clone the repository: `git clone https://github.com/shreyas-2046/StudyNotion.git`
 2. Navigate to the project directory: `cd StudyNotion`
 3. Install dependencies: `npm install`
 
@@ -114,3 +114,11 @@ For detailed API documentation and endpoints, refer to the [API Documentation](/
 
 1. Set up a MongoDB database and obtain the connection URL.
 2. Create a `.env` file in the root directory with the following environment variables:
+
+   
+## Usage
+
+1. Start the Project: `npm run dev`
+
+Access the application in your browser at `http://localhost:3000`.
+
