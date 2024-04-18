@@ -112,7 +112,7 @@ const Footer = () => {
             </div>
             
             </div>
-            <div className="flex flex-row items-center justify-between w-11/12 max-w-maxContent text-richblack-400 mx-auto  pb-14 text-sm"><div className="flex justify-between lg:items-start items-center flex-col lg:flex-row gap-3 w-full"><div className="flex flex-row"><div className=" border-r border-richblack-700 cursor-pointer hover:text-richblack-50 transition-all duration-200 px-3 "><a href="/privacy-policy">Privacy Policy</a></div><div className=" border-r border-richblack-700 cursor-pointer hover:text-richblack-50 transition-all duration-200 px-3 "><a href="/cookie-policy">Cookie Policy</a></div><div className="  px-3 "><a href="/terms">Terms</a></div></div><div className="text-center">Copyright © 2023 Studynotion - Shreyas Jagadale</div></div></div>
+            <div className="flex flex-row items-center justify-between w-11/12 max-w-maxContent text-richblack-400 mx-auto  pb-14 text-sm"><div className="flex justify-between lg:items-start items-center flex-col lg:flex-row gap-3 w-full"><div className="flex flex-row"><div className=" border-r border-richblack-700 cursor-pointer hover:text-richblack-50 transition-all duration-200 px-3 "><a href="/privacy-policy">Privacy Policy</a></div><div className=" border-r border-richblack-700 cursor-pointer hover:text-richblack-50 transition-all duration-200 px-3 "><a href="/cookie-policy">Cookie Policy</a></div><div className="  px-3 "><a href="/terms">Terms</a></div></div><div className="text-center">Copyright © 2023 Studynotion - Raj Mandhare</div></div></div>
         </div>
   )
 }

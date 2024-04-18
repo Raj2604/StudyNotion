@@ -8,7 +8,7 @@
     "axios": "^1.5.0",
     "browser-router": "^0.2.0",
     "chart.js": "^4.4.0",
-    "concurrently": "^8.0.1",
+    "concurrently": "^8.2.2",
     "copy-to-clipboard": "^3.3.3",
     "i": "^0.3.7",
     "npm": "^9.6.7",
